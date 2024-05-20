@@ -1,4 +1,9 @@
 # TIMECLOCK #
 
 1. Mô tả project
-    
+    Chương trình sẽ làm về đồng hồ thông minh kết nối mạng 
+    với bộ điều khiển chính là "ESP32". Có khả năng cập nhập thời gian qua wifi và kết nối được với điện thoại
+2. Dụng cụ và thiết bị
+    Động cơ servo SG90 7x4 = 28 cái
+    Mạch điều khiển ESP32 2 cái
+    Thiết bị nối và dây tải dữ liệu 
