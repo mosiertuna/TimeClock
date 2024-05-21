@@ -16,3 +16,7 @@
 4. Các thành viên trong nhóm
     Mạc Thanh Bình
     Trần Cao Bảo Phúc
+
+5. Link tham khảo
+    https://www.youtube.com/watch?v=QqSJr3zPPsQ (CÁCH ĐIỀU KHIỂN ĐỘNG CƠ SERVO)
+    
