@@ -7,3 +7,12 @@
     Động cơ servo SG90 7x4 = 28 cái
     Mạch điều khiển ESP32 2 cái
     Thiết bị nối và dây tải dữ liệu 
+3. Các Công nghệ cần học
+    API 
+    Điều khiển động cơ Servo 
+    Mạng máy tính 
+    ...
+
+4. Các thành viên trong nhóm
+    Mạc Thanh Bình
+    Trần Cao Bảo Phúc
