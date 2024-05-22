@@ -20,4 +20,4 @@
 5. Link tham khảo
     https://www.youtube.com/watch?v=QqSJr3zPPsQ (CÁCH ĐIỀU KHIỂN ĐỘNG CƠ SERVO)
     https://www.youtube.com/watch?v=4U6PQ5cEiws&list=PLDyGjFOgHSG2zQzzT_w5sA0I9Z9I0AMMO (CÁCH DÙNG ESP32)
-    
+    hello everyone
