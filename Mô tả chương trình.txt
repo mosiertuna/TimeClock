@@ -21,7 +21,11 @@
     https://www.youtube.com/watch?v=QqSJr3zPPsQ (CÁCH ĐIỀU KHIỂN ĐỘNG CƠ SERVO)
     https://www.youtube.com/watch?v=4U6PQ5cEiws&list=PLDyGjFOgHSG2zQzzT_w5sA0I9Z9I0AMMO (CÁCH DÙNG ESP32)
     hello everyone
+<<<<<<< HEAD
 
 6. Cách điều khiển servo g90
     động cơ có 3 chân là Nâu (GND), Cam (chân nhận tín hiệu), Đỏ(nguồn 5V)
     Khi sử dụng thì phải cài thư viện Servo để điều khiển
+=======
+    im phuc
+>>>>>>> a41b48391045fb50284e87e9bf61228511f96c4a
