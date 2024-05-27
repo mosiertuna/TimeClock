@@ -24,4 +24,5 @@
 6. Cách điều khiển servo g90
     động cơ có 3 chân là Nâu (GND), Cam (chân nhận tín hiệu), Đỏ(nguồn 5V)
     Khi sử dụng thì phải cài thư viện Servo để điều khiển
+    
 
