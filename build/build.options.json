@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "..\\..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "arduino:esp32:nano_nora:PartitionScheme=default,PinNumbers=default,USBMode=default",
+  "hardwareFolders": "C:\\Users\\84333\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\84333\\OneDrive\\Tài liệu\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "D:\\84333\\Documents\\New folder\\TimeClock\\Timeout"
+}

@@ -1,0 +1,19 @@
+#line 1 "D:\\84333\\Documents\\New folder\\TimeClock\\Timeout\\debug_custom.json"
+{
+	"name":"Arduino on ESP32-S3",
+	"toolchainPrefix":"xtensa-esp32s3-elf",
+	"svdFile":"debug.svd",
+	"request":"attach",
+	"overrideAttachCommands":[
+		"set remote hardware-watchpoint-limit 2",
+		"monitor reset halt",
+		"monitor gdb_sync",
+		"thb setup",
+		"interrupt"
+	],
+	"overrideRestartCommands":[
+		"monitor reset halt",
+		"monitor gdb_sync",
+		"interrupt"
+	]
+}
