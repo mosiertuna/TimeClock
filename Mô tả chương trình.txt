@@ -29,3 +29,7 @@
     Khi sử dụng thì phải cài thư viện Servo để điều khiển
     
 
+
+15/7 tiếp tục project
+
+
