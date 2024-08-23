@@ -13,6 +13,7 @@ const char* password = "REPLACE_WITH_YOUR_PASSWORD";
 
 // Set web server port number to 80
 WiFiServer server(80);
+//diwjiw
 
 // Variable to store the HTTP request
 String header;
